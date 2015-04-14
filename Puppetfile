@@ -79,12 +79,12 @@ mod 'tse_admins',
 mod 'aws',
   :git => 'https://github.com:puppetlabs/puppetlabs-aws.git'
 mod 'demomodule',
-  :git => 'chrismatteson@github.com:chrismatteson/demomodule.git'
-mod 'sqlserver',
-  :git => 'chrismatteson@github.com:puppetlabs/puppetlabs-sqlserver.git'
+  :git => 'github.com:chrismatteson/demomodule.git'
+#mod 'sqlserver',
+#  :git => 'github.com:puppetlabs/puppetlabs-sqlserver.git'
 mod 'sqlwebapp',
-  :git => 'chrismatteson@github.com:chrismatteson/puppet-sqlwebapp.git'
+  :git => 'github.com:chrismatteson/puppet-sqlwebapp.git'
 mod 'tse_sqlserver',
-  :git => 'chrismatteson@github.com:chrismatteson/tse_sqlserver.git'
+  :git => 'github.com:chrismatteson/tse_sqlserver.git'
 mod 'reidmv/unzip'
 
