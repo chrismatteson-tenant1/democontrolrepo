@@ -55,10 +55,10 @@ mod 'hunner/wordpress'
 # mod 'seteam/profile', '0.2.4'
 mod 'seteam/splunk'
 mod 'openssh',
-  :git => 'git@github.com:reidmv/puppet-module-openssh.git',
+  :git => 'https://github.com:reidmv/puppet-module-openssh.git',
   :ref => '0e10c540f32ca2a803ca056b8da59bd33a505cee'
 mod 'nonpriv',
-  :git => 'git@github.com:jpadams/nonpriv.git'
+  :git => 'https://github.com:jpadams/nonpriv.git'
 mod 'dotnet',
   :git => 'https://github.com/mrzarquon/dotnet.git'
 mod 'chocolatey',
@@ -69,15 +69,15 @@ mod 'pe_windows_shortcuts',
   :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
 mod 'tsefacts',
-  :git => 'git@github.com:mrzarquon/tsefacts.git'
+  :git => 'https://github.com:mrzarquon/tsefacts.git'
 mod 'ldap',
-  :git => 'git@github.com:mrzarquon/puppet-ldap.git'
+  :git => 'https://github.com:mrzarquon/puppet-ldap.git'
 mod 'windows',
-  :git => 'git@github.com:mrzarquon/puppet-windows.git'
+  :git => 'https://github.com:mrzarquon/puppet-windows.git'
 mod 'tse_admins',
-  :git => 'git@github.com:mrzarquon/puppet-tse_admins.git'
+  :git => 'https://github.com:mrzarquon/puppet-tse_admins.git'
 mod 'aws',
-  :git => 'git@github.com:puppetlabs/puppetlabs-aws.git'
+  :git => 'https://github.com:puppetlabs/puppetlabs-aws.git'
 mod 'demomodule',
   :git => 'chrismatteson@github.com:chrismatteson/demomodule.git'
 mod 'sqlserver',
