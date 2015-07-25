@@ -52,27 +52,15 @@ mod 'lwf/remote_file', '1.0.1'
 
 # TSE modules - either maintained under seteam or by individual SE's
 
-mod 'openssh',
-  :git => 'git@github.com:reidmv/puppet-module-openssh.git',
-  :ref => '0e10c540f32ca2a803ca056b8da59bd33a505cee'
-mod 'nonpriv',
-  :git => 'git@github.com:jpadams/nonpriv.git'
-mod 'dotnet',
-  :git => 'https://github.com/mrzarquon/dotnet.git'
-mod 'chocolatey',
-  :git => 'https://github.com/mrzarquon/chocolatey.git'
-mod 'pe_windows_shortcuts',
-  :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
-  :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
 mod 'tsefacts',
-  :git => 'git@github.com:mrzarquon/puppet-tse_facts.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_facts.git'
 mod 'ldap',
-  :git => 'git@github.com:mrzarquon/puppet-ldap.git'
+  :git => 'https://github.com/mrzarquon/puppet-ldap.git'
 mod 'tse_admins',
-  :git => 'git@github.com:mrzarquon/puppet-tse_admins.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_admins.git'
 mod 'tse_awsnodes',
-  :git => 'git@github.com:mrzarquon/puppet-tse_awsnodes.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_awsnodes.git'
 mod 'tse_windows',
-  :git => 'git@github.com:mrzarquon/puppet-tse_windows.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_windows.git'
 mod 'ec2tags',
-  :git => 'git@github.com:mrzarquon/puppet-ec2tags.git'
+  :git => 'https://github.com/mrzarquon/puppet-ec2tags.git'
