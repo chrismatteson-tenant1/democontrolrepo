@@ -47,7 +47,6 @@ mod 'seteam/profile', '0.4.6'
 mod 'seteam/role', '1.1.1'
 mod 'nanliu/staging', '1.0.3'
 mod 'hunner/wordpress', '1.0.0'
-mod 'zack/r10k', '2.8.2'
 mod 'lwf/remote_file', '1.0.1'
 
 # TSE modules - either maintained under seteam or by individual SE's
