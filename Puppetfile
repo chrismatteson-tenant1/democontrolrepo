@@ -22,7 +22,7 @@ mod 'puppetlabs/dism', '1.1.0'
 mod 'puppetlabs/reboot', '0.1.9'
 mod 'puppetlabs/registry', '1.0.3'
 mod 'puppetlabs/acl', '1.1.0'
-mod 'puppetlabs/apache', '1.3.0'
+mod 'puppetlabs/apache', '1.5.0'
 mod 'puppetlabs/pe_gem', '0.1.0'
 mod 'puppetlabs/vcsrepo', '1.2.0'
 mod 'puppetlabs/stdlib', '4.5.1'
@@ -36,13 +36,13 @@ mod 'puppetlabs/pe_puppetserver_gem', '0.0.1'
 mod 'puppetlabs/aws', '1.0.0'
 mod 'puppet/windows_firewall', '1.0.0'
 mod 'puppetlabs/splunk', '3.1.1'
+mod 'puppetlabs/tomcat', '1.3.1'
 
 # Community Modules
 
 mod 'stahnma/epel', '1.0.2'
 mod 'opentable/iis', '1.3.0'
 mod 'opentable/windowsfeature', '1.0.0'
-mod 'seteam/tomcat', '0.1.0'
 mod 'seteam/profile', '0.4.6'
 mod 'seteam/role', '1.1.1'
 mod 'nanliu/staging', '1.0.3'
@@ -61,8 +61,6 @@ mod 'dotnet',
   :git => 'https://github.com/mrzarquon/dotnet.git'
 mod 'chocolatey',
   :git => 'https://github.com/mrzarquon/chocolatey.git'
-mod 'cmsapp',
-  :git => 'https://github.com/mrzarquon/cmsapp.git'
 mod 'pe_windows_shortcuts',
   :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
@@ -78,6 +76,3 @@ mod 'tse_windows',
   :git => 'git@github.com:mrzarquon/puppet-tse_windows.git'
 mod 'ec2tags',
   :git => 'git@github.com:mrzarquon/puppet-ec2tags.git'
-mod 'razordemo',
-  :git => 'https://github.com/chrismatteson/razordemo',
-  :ref => '300539445e07c7136b471807860b5b895b937012'
