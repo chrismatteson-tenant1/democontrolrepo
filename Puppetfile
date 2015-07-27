@@ -63,3 +63,7 @@ mod 'tse_windows',
   :git => 'https://github.com/mrzarquon/puppet-tse_windows.git'
 mod 'ec2tags',
   :git => 'https://github.com/mrzarquon/puppet-ec2tags.git'
+
+SAMPLE APP:
+mod 'sampleapp',
+  :git => 'https://github.com/chrismatteson/puppet-sampleapp.git'
