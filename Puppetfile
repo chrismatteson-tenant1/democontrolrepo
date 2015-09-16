@@ -56,29 +56,29 @@ mod 'cmsapp',
 mod 'dotnet',
   :git => 'https://github.com/mrzarquon/dotnet.git'
 mod 'ec2tags',
-  :git => 'git@github.com:mrzarquon/puppet-ec2tags.git'
+  :git => 'https://github.com/mrzarquon/puppet-ec2tags.git'
 mod 'ldap',
-  :git => 'git@github.com:mrzarquon/puppet-ldap.git'
+  :git => 'https://github.com/mrzarquon/puppet-ldap.git'
 mod 'nonpriv',
-  :git => 'git@github.com:jpadams/nonpriv.git'
+  :git => 'https://github.com/jpadams/nonpriv.git'
 mod 'openssh',
-  :git => 'git@github.com:puppetlabs/tse-module-openssh.git',
+  :git => 'https://github.com/puppetlabs/tse-module-openssh.git',
   :ref => '0.1.0'
 mod 'pe_windows_shortcuts',
   :git => 'https://github.com/sseebald/pe_windows_shortcuts.git',
   :ref => '9c3350b6b7900a7be30221c4c75832eb730742f7'
 mod 'puppet_vim_env',
-  :git => 'git@github.com:puppetlabs/tse-module-puppet_vim_env.git',
+  :git => 'https://github.com/puppetlabs/tse-module-puppet_vim_env.git',
   :ref => '2.1.1'
 mod 'razordemo',
-  :git => 'git@github.com:puppetlabs/tse-module-razordemo.git',
+  :git => 'https://github.com/puppetlabs/tse-module-razordemo.git',
   :ref => 'v2.1'
 mod 'tse_admins',
-  :git => 'git@github.com:mrzarquon/puppet-tse_admins.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_admins.git'
 mod 'tse_awsnodes',
-  :git => 'git@github.com:mrzarquon/puppet-tse_awsnodes.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_awsnodes.git'
 mod 'tse_facts',
-  :git => 'git@github.com:puppetlabs/tse-module-tse_facts.git',
+  :git => 'https://github.com/puppetlabs/tse-module-tse_facts.git',
   :ref => '0.1.0'
 mod 'tse_windows',
-  :git => 'git@github.com:mrzarquon/puppet-tse_windows.git'
+  :git => 'https://github.com/mrzarquon/puppet-tse_windows.git'
